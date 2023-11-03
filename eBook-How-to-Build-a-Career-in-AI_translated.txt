@@ -1,0 +1,294 @@
+Fundador, DeepLearning.AI
+Ideas recopiladas
+de Andrew Ng
+Cómo
+Construir
+Tu
+Carrera
+en IA
+Una guía sencilla
+
+"La IA es la nueva electricidad. Transformará y mejorará todas las áreas de la vida humana."
+Andrew Ng
+
+Tabla de contenidos
+Introducción: Codificar IA es la nueva alfabetización.
+Capítulo 1: Tres pasos para el crecimiento profesional.
+Capítulo 2: Aprender habilidades técnicas para una prometedora carrera en IA.
+Capítulo 3: ¿Deberías aprender matemáticas para conseguir un trabajo en IA?
+Capítulo 4: Definir proyectos exitosos de IA.
+Capítulo 5: Encontrar proyectos que complementen tus metas profesionales.
+Capítulo 6: Construir un portafolio de proyectos que muestre progresión de habilidades.
+Capítulo 7: Un marco simple para comenzar tu búsqueda de trabajo en IA.
+Capítulo 8: Utilizar entrevistas informativas para encontrar el trabajo adecuado.
+Capítulo 9: Encontrar el trabajo en IA adecuado para ti.
+Capítulo 10: Claves para construir una carrera en IA.
+Capítulo 11: Superar el síndrome del impostor.
+Reflexiones finales: Haz que cada día cuente.
+APRENDIZAJE
+PROYECTOS
+TRABAJO
+
+La codificación de IA es la nueva alfabetización
+Hoy en día damos por sentado que muchas personas saben leer y escribir. Algún día, espero, será igual de común que las personas sepan escribir código, específicamente para la IA.
+Hace varios cientos de años, la sociedad no consideraba la alfabetización en el lenguaje como una habilidad necesaria. Un pequeño número de personas aprendió a leer y escribir, y todos los demás les permitieron hacer la lectura y escritura. Tomó siglos para que la alfabetización se extendiera, y ahora la sociedad es mucho más rica por ello.
+Las palabras permiten una comunicación profunda entre humanos. El código es la forma más profunda de comunicación entre humanos y máquinas. A medida que las máquinas se vuelven más centrales en la vida diaria, esa comunicación se vuelve cada vez más importante.
+La ingeniería de software tradicional, escribir programas que le dicen explícitamente a una computadora secuencias de pasos para ejecutar, ha sido el camino principal hacia la alfabetización en código. Muchas clases introductorias de programación utilizan la creación de un videojuego o la construcción de un sitio web como ejemplos. Pero la IA, el aprendizaje automático y la ciencia de datos ofrecen un nuevo paradigma en el que las computadoras extraen conocimiento de los datos. Esta tecnología ofrece un camino aún mejor hacia la codificación.
+Muchos domingos, compro una rebanada de pizza en la pizzería de mi vecindario. El caballero detrás del mostrador tiene poco motivo para aprender a construir un videojuego o escribir su propio software de sitio web (más allá del crecimiento personal y el placer de adquirir una nueva habilidad).
+Pero la IA y la ciencia de datos tienen un gran valor incluso para un fabricante de pizza. Un modelo de regresión lineal podría permitirle estimar mejor la demanda para que pueda optimizar el personal y la cadena de suministro del restaurante. Podría predecir mejor las ventas de pizza hawaiana, ¡mi favorita!, para que pueda hacer más pizzas hawaianas de antemano y reducir el tiempo que los clientes tienen que esperar por ellas.
+Los usos de la IA y la ciencia de datos se pueden encontrar en casi cualquier situación que produzca datos. Por lo tanto, una amplia variedad de profesiones encontrarán más usos para aplicaciones de IA personalizadas e ideas derivadas de datos que para la ingeniería de software tradicional. Esto hace que la alfabetización en codificación orientada a la IA sea aún más valiosa que la codificación tradicional. Podría permitir que innumerables personas aprovechen los datos para enriquecer sus vidas.
+Espero que la promesa de construir aplicaciones básicas de IA, incluso más que la de construir software tradicional básico, anime a más personas a aprender a codificar. Si la sociedad adopta esta nueva forma de alfabetización como ha adoptado la capacidad de leer y escribir, todos nos beneficiaremos.Introducción
+
+Tres pasos para el crecimiento profesionalCAPÍTULO 1
+
+El rápido crecimiento de la IA ha llevado a un rápido aumento en los empleos de IA, y muchas personas están construyendo carreras emocionantes en este campo. Una carrera es un viaje de décadas, y el camino no es directo. A lo largo de muchos años, he tenido el privilegio de ver a miles de estudiantes, así como a ingenieros en empresas grandes y pequeñas, navegar por carreras en IA.
+
+Aquí hay un marco para trazar tu propio curso. Más adelante, trabajarás en encontrar un trabajo. A lo largo de este proceso, seguirás aprendiendo y trabajando en proyectos significativos. Los capítulos se enfocan en la búsqueda de empleo. Los tres pasos clave para el crecimiento profesional son aprender habilidades fundamentales, trabajar en proyectos (para profundizar tus habilidades, construir un portafolio y crear impacto) y encontrar un trabajo. Estos pasos se van acumulando uno encima del otro: Tres pasos para el crecimiento profesional: APRENDER PROYECTOS TRABAJO
+
+CAPÍTULO 1: Inicialmente, te enfocas en aprender habilidades fundamentales. Los capítulos cubren temas sobre el aprendizaje de habilidades técnicas fundamentales. Después de haber adquirido habilidades técnicas fundamentales, comenzarás a trabajar en proyectos. Durante este período, también seguirás aprendiendo. Los capítulos se enfocan en proyectos.
+
+Estas fases se aplican en una amplia gama de profesiones, pero la IA involucra elementos únicos. Por ejemplo: Tres pasos para el crecimiento profesional. La IA está en sus primeras etapas y muchas tecnologías todavía están evolucionando. Si bien los fundamentos del aprendizaje automático y el aprendizaje profundo están madurando, y los cursos son una forma eficiente de dominarlos, más allá de estos fundamentos, mantenerse actualizado con la tecnología en constante cambio es más importante en la IA que en campos más maduros. Aprender habilidades fundamentales es un proceso de por vida en la carrera. Esto puede dificultar encontrar un proyecto adecuado, estimar el cronograma y el retorno de la inversión del proyecto, y establecer expectativas. Además, la naturaleza altamente iterativa de los proyectos de IA conlleva desafíos especiales en la gestión de proyectos: ¿Cómo puedes crear un plan para construir un sistema cuando no sabes de antemano cuánto tiempo llevará alcanzar la precisión objetivo? Incluso después de que el sistema haya alcanzado el objetivo, puede ser necesario realizar más iteraciones para abordar la deriva posterior a la implementación. Trabajar en proyectos a menudo significa colaborar con partes interesadas que carecen de experiencia en IA. Si bien buscar un trabajo en IA puede ser similar a buscar un trabajo en otros sectores, también hay diferencias importantes. Muchas empresas todavía están tratando de descubrir qué habilidades de IA necesitan y cómo contratar personas que las tengan. Las cosas en las que has trabajado pueden ser significativamente diferentes a cualquier cosa que tu entrevistador haya visto, y es más probable que tengas que educar a posibles empleadores sobre algunos elementos de tu trabajo. Opiniones inconsistentes sobre habilidades de IA y roles laborales. CAPÍTULO 1 A medida que avanzas en cada paso, también debes construir una comunidad de apoyo. Tener amigos y aliados que puedan ayudarte, y a quienes te esfuerces por ayudar, hace que el camino sea más fácil. Esto es cierto tanto si estás dando tus primeros pasos como si llevas años en el camino. APRENDIZAJE PROYECTOS TRABAJO
+
+HABILIDADES TÉCNICAS PARA UNA PROMETEDORA CARRERA EN IA
+
+CAPÍTULO 2
+APRENDIENDO
+
+En el capítulo anterior, presenté tres pasos clave para construir una carrera en IA: aprender habilidades técnicas fundamentales, trabajar en proyectos y encontrar un trabajo, todo lo cual es respaldado por ser parte de una comunidad. En este capítulo, me gustaría profundizar más en el primer paso: aprender habilidades fundamentales.
+Se han publicado más documentos de investigación sobre IA de los que cualquier persona puede leer en toda su vida. Por lo tanto, al aprender, es crítico priorizar la selección de temas. Creo que los temas más importantes para una carrera técnica en aprendizaje automático son:
+Habilidades fundamentales de aprendizaje automático: Por ejemplo, es importante entender modelos como regresión lineal, regresión logística, redes neuronales, árboles de decisión, agrupamiento y detección de anomalías. Más allá de modelos específicos, es aún más importante entender los conceptos fundamentales detrás de cómo y por qué funciona el aprendizaje automático, como sesgo/varianza, funciones de costo, regularización, algoritmos de optimización y análisis de errores.
+Aprendizaje profundo: Esto se ha convertido en una gran parte del aprendizaje automático, ¡así que es difícil destacar en el campo sin cierto entendimiento de ello! Es valioso conocer los conceptos básicos de las redes neuronales, habilidades prácticas para hacerlas funcionar (como la sintonización de hiperparámetros), redes convolucionales, modelos de secuencia y transformadores.
+Desarrollo de software: Si bien puedes conseguir un trabajo y hacer grandes contribuciones solo con habilidades de modelado de aprendizaje automático, tus oportunidades laborales aumentarán si también puedes escribir buen software para implementar sistemas de IA complejos. Estas habilidades incluyen fundamentos de programación, estructuras de datos (especialmente aquellas relacionadas con el aprendizaje automático, como marcos de datos), algoritmos (incluidos los relacionados con bases de datos y manipulación de datos), diseño de software, familiaridad con Python y familiaridad con bibliotecas clave como TensorFlow o PyTorch, y scikit-learn.
+Matemáticas relevantes para el aprendizaje automático: Las áreas clave incluyen álgebra lineal (vectores, matrices y diversas manipulaciones de ellos), así como probabilidad y estadística (incluyendo probabilidad discreta y continua, distribuciones de probabilidad estándar, reglas básicas como independencia y regla de Bayes, y pruebas de hipótesis). Además, el análisis exploratorio de datos (EDA) - utilizando visualizaciones y otros métodos para explorar sistemáticamente un conjunto de datos - es una habilidad subestimada. He encontrado que el EDA es particularmente útil en el desarrollo de IA centrado en datos, donde analizar errores y obtener ideas puede ayudar realmente a impulsar el progreso. Por último, una comprensión intuitiva básica del cálculo también será útil. Las matemáticas necesarias para hacer aprendizaje automático de manera efectiva han estado cambiando. Por ejemplo, aunque algunas tareas requieren cálculo, el software de diferenciación automática mejorado hace posible inventar e implementar nuevas arquitecturas de redes neuronales sin hacer ningún cálculo. Esto era casi imposible hace una década. Aprendiendo habilidades técnicas para una prometedora carrera en IA CAPÍTULO 2
+
+¡Esto es mucho para aprender!
+Incluso después de dominar todo en esta lista, espero que sigas aprendiendo y profundizando tu conocimiento técnico. Conozco a muchos ingenieros de aprendizaje automático que se han beneficiado de habilidades más profundas en un área de aplicación como el procesamiento del lenguaje natural o la visión por computadora, o en un área tecnológica como los modelos gráficos probabilísticos o la construcción de sistemas de software escalables.
+¿Cómo adquieres estas habilidades? Hay mucho contenido bueno en internet y, en teoría, leer docenas de páginas web podría funcionar. Pero cuando el objetivo es comprender profundamente, leer páginas web desconectadas es ineficiente porque tienden a repetirse, utilizan terminología inconsistente (lo que te ralentiza), varían en calidad y dejan lagunas. Por eso, un buen curso, en el que un cuerpo de material se ha organizado de forma coherente y lógica, suele ser la forma más eficiente en términos de tiempo para dominar un cuerpo significativo de conocimiento. Cuando hayas absorbido el conocimiento disponible en los cursos, puedes pasar a los documentos de investigación y otros recursos.
+Finalmente, nadie puede aprender todo lo que necesita saber en un fin de semana o incluso en un mes. Todos los que conozco que son excelentes en aprendizaje automático son aprendices de por vida. Dado lo rápido que está cambiando nuestro campo, no hay otra opción que seguir aprendiendo si quieres mantenerte al día.
+¿Cómo puedes mantener un ritmo constante de aprendizaje durante años? Si puedes cultivar el hábito de aprender un poco cada semana, puedes hacer un progreso significativo con lo que parece menos esfuerzo. Aprendiendo habilidades técnicas para una prometedora carrera en IA CAPÍTULO 2
+
+La mejor manera de construir un nuevo hábito
+Uno de mis libros favoritos es "Tiny Habits: The Small Changes That Change Everything" de BJ Fogg. Fogg explica que la mejor manera de construir un nuevo hábito es comenzar pequeño y tener éxito, en lugar de comenzar demasiado grande y fracasar. Por ejemplo, en lugar de intentar hacer ejercicio durante 30 minutos al día, él recomienda aspirar a hacer solo una flexión y hacerlo de manera consistente.
+Este enfoque puede ser útil para aquellos de ustedes que desean pasar más tiempo estudiando. Si comienzan por responsabilizarse de ver, digamos, 10 segundos de un video educativo todos los días, y lo hacen de manera consistente, el hábito de estudiar diariamente crecerá de forma natural. Incluso si no aprenden nada en esos 10 segundos, están estableciendo el hábito de estudiar un poco todos los días. En algunos días, tal vez terminen estudiando durante una hora o más.
+
+¿Deberías aprender matemáticas para conseguir un trabajo en IA? CAPÍTULO 3 APRENDIZAJE
+
+¿Deberías aprender matemáticas para conseguir un trabajo en IA? ¡Siempre es bueno saber más matemáticas! Pero hay tanto por aprender que, realísticamente, es necesario establecer prioridades. Aquí te mostramos cómo podrías fortalecer tus conocimientos matemáticos.
+
+Para determinar qué es importante saber, encuentro útil preguntar qué necesitas saber para tomar las decisiones requeridas en el trabajo que deseas hacer. En DeepLearning.AI, frecuentemente nos preguntamos: "¿Qué necesita saber alguien para lograr sus metas?" La meta podría ser construir un modelo de aprendizaje automático, diseñar un sistema o pasar una entrevista de trabajo.
+
+Comprender las matemáticas detrás de los algoritmos que utilizas a menudo es útil, ya que te permite depurarlos. Pero la profundidad de conocimiento que es útil cambia con el tiempo. A medida que las técnicas de aprendizaje automático maduran y se vuelven más confiables y fáciles de usar, requieren menos depuración y puede ser suficiente tener un entendimiento más superficial de las matemáticas involucradas para hacer que funcionen.
+
+Por ejemplo, en una era anterior del aprendizaje automático, las bibliotecas de álgebra lineal para resolver sistemas de ecuaciones lineales (para regresión lineal) eran inmaduras. Tenía que entender cómo funcionaban estas bibliotecas para poder elegir entre diferentes bibliotecas y evitar problemas de redondeo numérico. Pero esto se volvió menos importante a medida que las bibliotecas numéricas de álgebra lineal maduraron.
+
+El aprendizaje profundo todavía es una tecnología emergente, por lo que cuando entrenas una red neuronal y el algoritmo de optimización tiene dificultades para converger, entender las matemáticas detrás del descenso de gradiente, el momentum y el algoritmo de optimización Adam te ayudará a tomar mejores decisiones. De manera similar, si tu red neuronal hace algo extraño, por ejemplo, hace predicciones incorrectas en imágenes de cierta resolución pero no en otras, entender las matemáticas detrás de las arquitecturas de redes neuronales te coloca en una mejor posición para descubrir qué hacer.
+
+Por supuesto, también fomento el aprendizaje impulsado por la curiosidad. Si algo te interesa, ¡adelante y aprende, sin importar cuán útil pueda resultar ser! ¡Tal vez esto te lleve a una chispa creativa o un avance técnico! ¿Cuánta matemática necesitas saber para ser un ingeniero de aprendizaje automático?
+
+DE INTELIGENCIA ARTIFICIAL EXITOSOS
+
+CAPÍTULO 4
+PROYECTOS
+
+Uno de los skills más importantes de un arquitecto de IA es la habilidad de identificar ideas que valgan la pena trabajar. Los siguientes capítulos discutirán cómo encontrar y trabajar en proyectos para que puedas ganar experiencia y construir tu portafolio.
+A lo largo de los años, me he divertido aplicando el aprendizaje automático a la manufactura, la salud, el cambio climático, la agricultura, el comercio electrónico, la publicidad y otras industrias. ¿Cómo puede alguien que no es experto en todos estos sectores encontrar proyectos significativos dentro de ellos? Aquí hay cinco pasos para ayudarte a delimitar proyectos.
+Identificar un problema empresarial (no un problema de IA). Me gusta encontrar a un experto en el campo y preguntar: "¿Cuáles son las tres cosas principales que desearías que funcionaran mejor? ¿Por qué aún no están funcionando?". Por ejemplo, si quieres aplicar IA al cambio climático, podrías descubrir que los operadores de la red eléctrica no pueden predecir con precisión cuánta energía generarán en el futuro fuentes intermitentes como el viento y el sol.
+Generar soluciones de IA. Cuando era más joven, solía ejecutar la primera idea que me emocionaba. A veces esto funcionaba bien, pero otras veces me perdía una idea aún mejor que no hubiera requerido más esfuerzo para desarrollar. Una vez que entiendes un problema, puedes generar soluciones potenciales de manera más eficiente. Por ejemplo, para predecir la generación de energía a partir de fuentes intermitentes, podríamos considerar el uso de imágenes satelitales para mapear con mayor precisión la ubicación de los aerogeneradores, el uso de imágenes satelitales para estimar la altura y capacidad de generación de los aerogeneradores, o el uso de datos meteorológicos para predecir mejor la cobertura de nubes y, por lo tanto, la radiación solar. A veces no hay una buena solución de IA, y eso está bien también.
+
+Determinar hitos. Una vez que hayas considerado que un proyecto es lo suficientemente valioso, el siguiente paso es determinar las métricas a las que apuntar. Esto incluye tanto métricas de aprendizaje automático (como la precisión) como métricas de negocio (como los ingresos). Los equipos de aprendizaje automático suelen sentirse más cómodos con métricas que un algoritmo de aprendizaje pueda optimizar. Pero es posible que necesitemos salir de nuestra zona de confort para encontrar métricas de negocio, como las relacionadas con la participación del usuario, los ingresos, etc. Desafortunadamente, ¡no todos los problemas empresariales se pueden reducir a optimizar la precisión del conjunto de pruebas! Si no puedes determinar hitos razonables, puede ser una señal de que necesitas aprender más sobre el problema. Un rápido prototipo puede ayudar a proporcionar la perspectiva que falta.
+
+Evaluar la viabilidad y el valor de las posibles soluciones. Puedes determinar si un enfoque es técnicamente viable al observar trabajos publicados, lo que han hecho los competidores o tal vez construyendo una implementación rápida de prueba de concepto. Puedes determinar su valor consultando con expertos en el campo (por ejemplo, operadores de redes eléctricas, que pueden asesorar sobre la utilidad de las posibles soluciones mencionadas anteriormente).
+
+Presupuesto para recursos. Piensa en todo lo que necesitarás para completar el proyecto, incluyendo datos, personal, tiempo y cualquier integración o apoyo que puedas necesitar de otros equipos. Por ejemplo, si necesitas fondos para comprar imágenes de satélite, asegúrate de incluirlo en el presupuesto.
+
+Trabajar en proyectos es un proceso iterativo. Si, en cualquier paso, encuentras que la dirección actual no es factible, vuelve a un paso anterior y continúa con tu nueva comprensión. ¿Hay algún campo que te entusiasme donde la IA pueda marcar la diferencia? Espero que estos pasos te guíen en explorarlo a través del trabajo en proyectos, incluso si aún no tienes un profundo conocimiento en ese campo. La IA no resolverá todos los problemas, pero como comunidad, busquemos formas de tener un impacto positivo donde sea posible.
+
+que complementan tus metas profesionalesCAPÍTULO 5
+PROYECTOS
+
+No hace falta decir que solo debemos trabajar en proyectos que sean responsables, éticos y beneficiosos para las personas. Pero esos límites dejan una gran variedad para elegir. En el capítulo anterior, escribí sobre cómo identificar y delimitar proyectos de IA. Este capítulo y el siguiente tienen un énfasis ligeramente diferente: elegir y ejecutar proyectos teniendo en cuenta el desarrollo profesional.
+Una carrera fructífera incluirá muchos proyectos, con suerte creciendo en alcance, complejidad e impacto con el tiempo. Por lo tanto, está bien comenzar pequeño. Utiliza los proyectos iniciales para aprender y gradualmente pasar a proyectos más grandes a medida que tus habilidades crezcan.
+Cuando estás comenzando, no esperes que otros te den grandes ideas o recursos en bandeja de plata. Muchas personas comienzan trabajando en proyectos pequeños en su tiempo libre. Con éxitos iniciales, incluso pequeños, en tu haber, tus habilidades en crecimiento aumentan tu capacidad para generar mejores ideas y se vuelve más fácil persuadir a otros para que te ayuden a pasar a proyectos más grandes. Encontrar proyectos que complementen tus metas profesionales CAPÍTULO 5
+Únete a proyectos existentes. Si encuentras a alguien más con una idea, pide unirte a su proyecto.
+Sigue leyendo y hablando con personas. Yo siempre tengo nuevas ideas cuando paso mucho tiempo leyendo, tomando cursos o hablando con expertos en el campo. Estoy seguro de que tú también lo harás.
+Enfócate en un área de aplicación. Muchos investigadores están tratando de avanzar en la tecnología básica de IA, por ejemplo, inventando la próxima generación de transformadores o escalando aún más los modelos de lenguaje. Esta dirección es emocionante, pero también muy difícil. ¡Pero la variedad de aplicaciones a las que el aprendizaje automático aún no se ha aplicado es vasta! Tengo la suerte de haber podido aplicar redes neuronales a todo, desde vuelo autónomo de helicópteros hasta publicidad en línea, en parte porque me involucré cuando relativamente pocas personas estaban trabajando en esas aplicaciones. Si tu empresa o escuela se preocupa por una aplicación en particular, explora las posibilidades del aprendizaje automático. Eso te puede dar una primera mirada a una aplicación potencialmente creativa, donde puedes hacer un trabajo único que nadie más ha hecho todavía.✓
+✓
+✓¿Qué pasa si no tienes ideas de proyectos?
+Aquí hay algunas formas de generarlas:
+
+Desarrolla un trabajo secundario. Incluso si tienes un trabajo de tiempo completo, un proyecto divertido que puede o no convertirse en algo más grande puede estimular la creatividad y fortalecer los vínculos con los colaboradores. Cuando era profesor de tiempo completo, trabajar en educación en línea no era parte de mi "trabajo" (que consistía en investigar y dar clases). Era un pasatiempo divertido en el que a menudo trabajaba por pasión por la educación. Mis primeras experiencias grabando videos en casa me ayudaron más tarde a trabajar en educación en línea de manera más sustancial. Silicon Valley está llena de historias de startups que comenzaron como proyectos secundarios. Siempre y cuando no genere conflictos con tu empleador, estos proyectos pueden ser un trampolín hacia algo significativo.
+¿El proyecto te ayudará a crecer técnicamente? Idealmente, debería ser lo suficientemente desafiante como para poner a prueba tus habilidades, pero no tan difícil como para tener pocas posibilidades de éxito. Esto te pondrá en un camino hacia el dominio de una complejidad técnica cada vez mayor.
+¿Tienes buenos compañeros de equipo con los que trabajar? Si no es así, ¿hay personas con las que puedas discutir cosas? Aprendemos mucho de las personas que nos rodean, y los buenos colaboradores tendrán un gran impacto en tu crecimiento.
+¿Puede ser un trampolín? Si el proyecto tiene éxito, ¿su complejidad técnica y/o impacto empresarial lo convertirán en un trampolín significativo hacia proyectos más grandes? Si el proyecto es más grande que los que has trabajado antes, hay una buena posibilidad de que pueda ser un trampolín de ese tipo.
+
+Dadas algunas ideas de proyectos, ¿en cuál deberías involucrarte? Aquí tienes una lista rápida de factores a considerar:
+Finalmente, evita el análisis parálisis. No tiene sentido pasar un mes decidiendo si trabajar en un proyecto que tomaría una semana completar. Trabajarás en múltiples proyectos a lo largo de tu carrera, por lo que tendrás amplias oportunidades para perfeccionar tu forma de pensar sobre lo que vale la pena. Dada la gran cantidad de posibles proyectos de IA, en lugar del enfoque convencional de "preparar, apuntar, disparar", puedes acelerar tu progreso con "preparar, disparar, apuntar". Encontrar proyectos que complementen tus metas profesionales. CAPÍTULO 5
+
+Trabajar en proyectos requiere tomar decisiones difíciles sobre qué construir y cómo hacerlo. Aquí hay dos estilos distintos:
+
+Digamos que has construido un chatbot de servicio al cliente para minoristas y crees que también podría ayudar a los restaurantes. ¿Deberías tomar tiempo para estudiar el mercado de restaurantes antes de comenzar el desarrollo, avanzando lentamente pero reduciendo el riesgo de perder tiempo y recursos? ¿O deberías lanzarte de inmediato, avanzando rápidamente y aceptando un mayor riesgo de cambiar de dirección o fracasar?
+
+Ambos enfoques tienen sus defensores y la mejor elección depende de la situación.
+
+Ready, Aim, Fire tiende a ser superior cuando el costo de ejecución es alto y un estudio puede arrojar luz sobre qué tan útil o valioso podría ser un proyecto. Por ejemplo, si puedes generar algunas ideas de uso adicionales (restaurantes, aerolíneas, empresas de telecomunicaciones, etc.) y evaluar estos casos para identificar el más prometedor, puede valer la pena tomar el tiempo extra antes de comprometerse con una dirección.
+
+Ready, Fire, Aim tiende a ser mejor si puedes ejecutar a bajo costo y, al hacerlo, determinar si la dirección es factible y descubrir ajustes que la hagan funcionar. Por ejemplo, si puedes construir un prototipo rápidamente para averiguar si los usuarios quieren el producto y si cancelar o cambiar de dirección después de una pequeña cantidad de trabajo es aceptable, entonces tiene sentido considerar lanzarse rápidamente. Cuando disparar es barato, también tiene sentido disparar muchas veces. En este caso, el proceso es en realidad Ready, Fire, Aim, Fire, Aim, Fire, Aim, Fire.
+
+Después de acordar una dirección del proyecto, cuando se trata de construir un modelo de aprendizaje automático que forma parte del producto, tengo una inclinación hacia Ready, Fire, Aim. Construir modelos es un proceso iterativo. Para muchas aplicaciones, el costo de entrenamiento y análisis de errores no es prohibitivo. Además, es muy difícil llevar a cabo un estudio que arroje luz sobre el modelo, los datos y los hiperparámetros apropiados. Por lo tanto, tiene sentido construir un sistema de extremo a extremo rápidamente y revisarlo hasta que funcione bien.
+
+Pero cuando comprometerse con una dirección significa hacer una inversión costosa o entrar por una puerta de una sola dirección (es decir, una decisión difícil de revertir), a menudo vale la pena dedicar más tiempo por adelantado para asegurarse de que realmente sea una buena idea. Ready, Fire, Aim
+
+Ready, Aim, Fire: Planifica cuidadosamente y lleva a cabo una validación minuciosa. Comprométete y ejecuta solo cuando tengas un alto grado de confianza en una dirección.
+
+Ready, Fire, Aim: Lánzate al desarrollo y comienza a ejecutar. Esto te permite descubrir problemas rápidamente y cambiar de dirección si es necesario.
+
+Construyendo un portafolio de proyectos que muestre la progresión de habilidades CAPÍTULO 6
+PROYECTOS
+
+A lo largo de tu carrera, es probable que trabajes en proyectos sucesivos, cada uno creciendo en alcance y complejidad. Por ejemplo:
+Los primeros proyectos pueden ser tareas escolares con un alcance estrecho y respuestas predeterminadas. ¡Estas son a menudo grandes experiencias de aprendizaje!
+Con el tiempo, adquirirás suficiente habilidad para construir proyectos en los que otros vean un valor más tangible. Esto abre la puerta a más recursos. Por ejemplo, en lugar de desarrollar sistemas de aprendizaje automático en tu tiempo libre, podría formar parte de tu trabajo y podrías tener acceso a más equipos, tiempo de cómputo, presupuesto de etiquetado o personal adicional.
+Podrías continuar trabajando en proyectos a pequeña escala, ya sea solo o con amigos. Por ejemplo, podrías volver a implementar un algoritmo conocido, aplicar aprendizaje automático a un pasatiempo (como predecir si tu equipo deportivo favorito ganará) o construir un sistema pequeño pero útil en el trabajo en tu tiempo libre (como un script basado en aprendizaje automático que ayuda a un colega a automatizar parte de su trabajo). Participar en competiciones como las organizadas por Kaggle también es una forma de adquirir experiencia.
+Los éxitos se van acumulando, abriendo la puerta a un crecimiento técnico, más recursos y oportunidades de proyectos cada vez más significativos.1. Proyectos de clase:
+3. Creando valor2. Proyectos personales
+4. Aumento de alcance y complejidadConstruyendo un portafolio de proyectos que muestre la progresión de habilidades CAPÍTULO 6
+
+Cada proyecto es solo un paso en un viaje más largo, con suerte uno que tenga un impacto positivo. Además:
+No te preocupes por empezar demasiado pequeño. Uno de mis primeros proyectos de investigación de aprendizaje automático involucró entrenar una red neuronal para ver qué tan bien podía imitar la función sin(x). No fue muy útil, pero fue una gran experiencia de aprendizaje que me permitió pasar a proyectos más grandes.
+Construir un portafolio de proyectos, especialmente uno que muestre progreso a lo largo del tiempo, desde emprendimientos simples hasta complejos, será de gran ayuda cuando se busque trabajo.
+La comunicación es clave. Debes poder explicar tu pensamiento si quieres que otros vean el valor en tu trabajo y confíen en ti con los recursos en los que puedes invertir en proyectos más grandes. Para comenzar un proyecto, comunicar el valor de lo que esperas construir ayudará a que tus colegas, mentores y gerentes se sumen, y les ayudará a señalar fallas en tu razonamiento. Después de terminar, la capacidad de explicar claramente lo que lograste ayudará a convencer a otros de abrir la puerta a proyectos más grandes.
+El liderazgo no es solo para los gerentes. Cuando llegues al punto de trabajar en proyectos de IA más grandes que requieran trabajo en equipo, tu capacidad para liderar proyectos se volverá más importante, ya sea que ocupes o no un puesto formal de liderazgo. Muchos de mis amigos han seguido con éxito una carrera técnica en lugar de gerencial, y su capacidad para ayudar a dirigir un proyecto aplicando conocimientos técnicos profundos, por ejemplo, cuándo invertir en una nueva arquitectura técnica o recopilar más datos de un cierto tipo, les permitió crecer como líderes y también ayudó a mejorar significativamente el proyecto. Construir un portafolio de proyectos que muestre progresión de habilidades. CAPÍTULO 6
+
+Un Marco Simple para Comenzar tu Búsqueda de Empleo en IA
+
+CAPÍTULO 7
+EMPLEOS
+
+Encontrar un trabajo tiene algunos pasos predecibles que incluyen seleccionar las empresas a las que deseas aplicar, prepararte para las entrevistas y finalmente elegir un rol y negociar un salario y beneficios. En este capítulo, me gustaría enfocarme en un marco de trabajo que es útil para muchos buscadores de empleo en IA, especialmente aquellos que están ingresando a la IA desde un campo diferente.
+Un gerente de producto en una startup tecnológica que se convierte en científico de datos en la misma empresa (o en otra diferente) ha cambiado de roles. Un comercial en una empresa de manufactura que se convierte en comercial en una empresa tecnológica ha cambiado de industrias. Un analista en una empresa de servicios financieros que se convierte en ingeniero de aprendizaje automático en una empresa tecnológica ha cambiado tanto de roles como de industrias.
+Si estás buscando tu primer trabajo en IA, probablemente encontrarás más fácil cambiar ya sea de roles o de industrias que hacer ambas cosas al mismo tiempo. Digamos que eres el analista que trabaja en servicios financieros: Si estás considerando tu próximo trabajo, pregúntate a ti mismo:
+¿Estás cambiando de roles? Por ejemplo, si eres un ingeniero de software, estudiante universitario o físico que busca convertirse en un ingeniero de aprendizaje automático, eso es un cambio de rol.
+¿Estás cambiando de industrias? Por ejemplo, si trabajas para una empresa de atención médica, una empresa de servicios financieros o una agencia gubernamental y quieres trabajar para una empresa de software, eso es un cambio de industrias.
+Si encuentras un trabajo de ciencia de datos o aprendizaje automático en servicios financieros, puedes seguir utilizando tus conocimientos específicos del dominio mientras adquieres conocimientos y experiencia en IA. Después de trabajar en este rol por un tiempo, estarás en una mejor posición para cambiar a una empresa tecnológica (si ese sigue siendo tu objetivo).
+Alternativamente, si te conviertes en un analista en una empresa tecnológica, puedes seguir utilizando tus habilidades como analista pero aplicarlas a una industria diferente. Ser parte de una empresa tecnológica también facilita mucho aprender de los colegas sobre los desafíos prácticos de la IA, las habilidades clave para tener éxito en la IA, y así sucesivamente.
+
+Si estás considerando cambiar de rol, una startup puede ser un lugar más fácil para hacerlo que una gran empresa. Si bien hay excepciones, las startups generalmente no tienen suficiente personal para realizar todo el trabajo deseado. Si puedes ayudar con tareas de IA, incluso si no es tu trabajo oficial, es probable que tu trabajo sea apreciado. Esto sienta las bases para un posible cambio de rol sin necesidad de abandonar la empresa. En contraste, en una gran empresa, es más probable que un sistema de recompensas rígido te recompense por hacer bien tu trabajo (y a tu gerente por apoyarte en hacer el trabajo para el cual fuiste contratado), pero es menos probable que recompense las contribuciones fuera del alcance de tu trabajo.
+
+Después de trabajar durante un tiempo en el rol y la industria deseados (por ejemplo, ingeniero de aprendizaje automático en una empresa tecnológica), tendrás una buena idea de los requisitos para ese rol en esa industria a un nivel más alto. También tendrás una red de contactos dentro de esa industria que te ayudará. Por lo tanto, las futuras búsquedas de empleo, si decides seguir con el rol y la industria, probablemente serán más fáciles.
+
+Cuando cambias de trabajo, estás dando un paso hacia lo desconocido, especialmente si estás cambiando de rol o industria. Una de las herramientas más subutilizadas para familiarizarse más con un nuevo rol y/o industria es la entrevista informativa. Compartiré más sobre eso en el próximo capítulo.
+
+Agradezco a Salwa Nur Muhammad, CEO de FourthBrain (afiliada a DeepLearning.AI), por proporcionar algunas de las ideas presentadas en este capítulo.
+
+Hay mucho que no sabemos sobre el futuro: ¿Cuándo curaremos la enfermedad de Alzheimer? ¿Quién ganará las próximas elecciones? O, en un contexto empresarial, ¿cuántos clientes tendremos el próximo año?
+Con tantos cambios ocurriendo en el mundo, muchas personas se sienten estresadas acerca del futuro, especialmente cuando se trata de encontrar un trabajo. Tengo una práctica que me ayuda a recuperar un sentido de control. Frente a la incertidumbre, trato de:
+Por ejemplo, durante la pandemia de Covid-19 en marzo de 2020, realicé este ejercicio de planificación de escenarios. Imaginé recuperaciones rápidas (tres meses), medianas (un año) y lentas (dos años) del Covid-19 y hice planes para manejar cada caso. Estos planes me han ayudado a priorizar dónde puedo actuar.
+El mismo método también se puede aplicar a la vida personal. Si no estás seguro de aprobar un examen, obtener una oferta de trabajo o que te otorguen una visa, lo cual puede ser estresante, puedes escribir lo que harías en cada uno de los escenarios probables. Pensar en las posibilidades y seguir los planes puede ayudarte a navegar el futuro de manera efectiva, sin importar lo que traiga.
+Bonus: Con entrenamiento en IA y estadísticas, puedes calcular una probabilidad para cada escenario. Soy fan de la metodología de Superforecasting, en la cual los juicios de muchos expertos se sintetizan en una estimación de probabilidad. Superando la incertidumbre:
+Hacer una lista de escenarios plausibles, reconociendo que no sé cuál se cumplirá.
+Crear un plan de acción para cada escenario.
+Comenzar a ejecutar acciones que parezcan razonables.
+Revisar los escenarios y planes periódicamente a medida que el futuro se aclara.
+
+Usando entrevistas informativas para encontrar el trabajo adecuadoCAPÍTULO 8
+TRABAJOS
+
+Si te estás preparando para cambiar de roles (por ejemplo, tomar un trabajo como ingeniero de aprendizaje automático por primera vez) o industrias (por ejemplo, trabajar en una empresa de tecnología de IA por primera vez), hay mucho sobre el trabajo objetivo que probablemente no sepas. Una técnica conocida como entrevista informativa es una excelente manera de aprender.
+
+Una entrevista informativa implica encontrar a alguien en una empresa o rol que te gustaría conocer más y entrevistarlos informalmente sobre su trabajo. Estas conversaciones son diferentes de buscar un trabajo. De hecho, es útil entrevistar a personas que ocupan posiciones que se alinean con tus intereses mucho antes de que estés listo para comenzar una búsqueda de empleo.
+
+Prepárate para las entrevistas informativas investigando al entrevistado y a la empresa con anticipación, para que puedas llegar con preguntas reflexivas. Podrías preguntar:
+
+- ¿Qué haces en una semana o día típico?
+- ¿Cuáles son las tareas más importantes en este rol?
+- ¿Qué habilidades son más importantes para tener éxito?
+- ¿Cómo trabaja tu equipo en conjunto para lograr sus objetivos?
+- ¿Cuál es el proceso de contratación?
+- Teniendo en cuenta a los candidatos que se destacaron en el pasado, ¿qué les permitió brillar?
+
+Las entrevistas informativas son particularmente relevantes para la IA. Debido a que el campo está evolucionando, muchas empresas utilizan títulos de trabajo de manera inconsistente. En una empresa, los científicos de datos pueden esperar principalmente analizar datos comerciales y presentar conclusiones en una presentación. En otra empresa, pueden escribir y mantener código de producción. Una entrevista informativa puede ayudarte a entender lo que realmente hacen las personas de IA en una empresa en particular.
+
+Con la rápida expansión de oportunidades en IA, muchas personas tomarán un trabajo en IA por primera vez. En este caso, una entrevista informativa puede ser invaluable para aprender qué sucede y qué habilidades se necesitan para hacer bien el trabajo. Por ejemplo, puedes aprender qué algoritmos, procesos de implementación y pilas de software utiliza una empresa en particular. Es posible que te sorprendas, si aún no estás familiarizado con el movimiento de IA centrado en datos, al descubrir cuánto tiempo pasan la mayoría de los ingenieros de aprendizaje automático limpiando iterativamente conjuntos de datos.
+
+Encontrar a alguien para entrevistar no siempre es fácil, pero muchas personas que ocupan puestos de alto nivel hoy en día recibieron ayuda cuando eran nuevos de aquellos que habían ingresado al campo antes que ellos, y muchos están ansiosos por devolver el favor. Si puedes contactar a alguien que ya está en tu red, tal vez un amigo que hizo la transición antes que tú o alguien que asistió a la misma escuela que tú, ¡eso es genial! Los encuentros como Pie & AI también pueden ayudarte a construir tu red.
+Finalmente, sé educado y profesional, y agradece a las personas que has entrevistado. Y cuando tengas la oportunidad, por favor también ayuda a alguien que esté comenzando después de ti. Si recibes una solicitud de una entrevista informativa de alguien en la comunidad de DeepLearning.AI, espero que te inclines a ayudarles a dar un paso adelante. Si estás interesado en aprender más sobre entrevistas informativas, recomiendo este artículo del Centro de Carreras de UC Berkeley.
+He mencionado varias veces la importancia de tu red y comunidad. Las personas que has conocido, además de proporcionar información valiosa, también pueden desempeñar un papel invaluable al referirte a posibles empleadores. Utilizando Entrevistas Informativas para Encontrar el Trabajo Correcto CAPÍTULO 8
+
+Encontrar el trabajo de IA adecuado para tiCAPÍTULO 9
+TRABAJOS
+
+En este capítulo, me gustaría discutir algunos puntos importantes sobre cómo encontrar un trabajo.
+La búsqueda de empleo típica sigue un camino bastante predecible.
+Aunque el proceso puede ser familiar, cada búsqueda de empleo es diferente. Aquí hay algunos consejos para aumentar las posibilidades de encontrar un puesto que apoye tu próspera carrera y te permita seguir creciendo.
+
+Investiga roles y empresas en línea o hablando con amigos.
+Opcionalmente, organiza entrevistas informativas informales con personas en empresas que te interesen.
+Solicita directamente o, si puedes, consigue una recomendación de alguien de adentro.
+Entrevístate con empresas que te inviten.
+Recibe una o más ofertas y elige una. O, si no recibes una oferta, solicita comentarios de los entrevistadores, el personal de recursos humanos, los foros de discusión en línea o cualquier persona en tu red que pueda ayudarte a planificar tu próximo movimiento.
+
+Presta atención a los fundamentos. Un currículum convincente, un portafolio de proyectos técnicos y un buen desempeño en las entrevistas abrirán puertas. Incluso si tienes una recomendación de alguien en una empresa, tu currículum y portafolio serán tu primer contacto con muchas personas que aún no te conocen. Actualiza tu currículum y asegúrate de que presente claramente tu educación y experiencia relevante para el puesto que deseas. Personaliza tus comunicaciones con cada empresa para explicar por qué eres un buen candidato. Antes de una entrevista, pregunta al reclutador qué esperar. Tómate el tiempo para revisar y practicar respuestas a preguntas comunes de entrevistas, repasa habilidades clave y estudia materiales técnicos para asegurarte de que estén frescos en tu mente. Después, toma notas para ayudarte a recordar lo que se dijo.
+
+Procede de manera respetuosa y responsable. Enfrenta las entrevistas y las negociaciones de ofertas con una mentalidad de ganar-ganar. El escándalo se propaga más rápido que la sensatez en las redes sociales, por lo que una historia sobre cómo un empleador pagó menos a alguien se amplifica, mientras que las historias sobre cómo un empleador trató a alguien de manera justa no lo hacen. La gran mayoría de los empleadores son éticos y justos, así que no dejes que las historias sobre la pequeña fracción de personas maltratadas influyan en tu enfoque. Si estás dejando un trabajo, hazlo de manera elegante. Da a tu empleador un aviso amplio, da tu máximo esfuerzo hasta tu última hora en el trabajo, transfiere los asuntos pendientes de la mejor manera posible y vete de una manera que honre las responsabilidades que te fueron confiadas. Encontrar el trabajo de IA adecuado para ti CAPÍTULO 9
+
+Elige con quién trabajar. Es tentador aceptar un puesto por los proyectos en los que trabajarás. Pero los compañeros de trabajo con los que trabajarás son igualmente importantes. Nos vemos influenciados por las personas que nos rodean, por lo que tus colegas marcarán una gran diferencia. Por ejemplo, si tus amigos fuman, aumentan las probabilidades de que tú también fumes. No conozco ningún estudio que demuestre esto, pero estoy bastante seguro de que si la mayoría de tus colegas trabajan duro, aprenden continuamente y construyen IA para beneficiar a todas las personas, es probable que tú hagas lo mismo. (Por cierto, algunas grandes empresas no te dirán quiénes serán tus compañeros de equipo hasta que hayas aceptado una oferta. En este caso, sé persistente y sigue presionando para identificar y hablar con posibles compañeros de equipo. Las políticas estrictas pueden hacer que sea imposible acomodarte, pero en mi opinión, eso aumenta el riesgo de aceptar la oferta, ya que aumenta las probabilidades de que termines con un gerente o compañeros de equipo que no sean adecuados).
+
+Obtén ayuda de tu comunidad. La mayoría de nosotros buscamos trabajo solo unas pocas veces en nuestra carrera, por lo que pocos de nosotros tenemos mucha práctica en hacerlo bien. Sin embargo, colectivamente, las personas en tu comunidad inmediata probablemente tienen mucha experiencia. No seas tímido/a en pedirles ayuda. Los amigos y asociados pueden brindar consejos, compartir conocimientos internos y referirte a otras personas que puedan ayudarte. Recibí mucha ayuda de amigos y mentores solidarios cuando solicité mi primer puesto docente, y muchos de los consejos que me dieron fueron muy útiles.
+
+Sé que el proceso de búsqueda de empleo puede ser intimidante. En lugar de verlo como un gran salto, considera un enfoque incremental. Comienza identificando posibles roles y realizando algunas entrevistas informativas. Si estas conversaciones te indican que tienes más aprendizaje que hacer antes de estar listo/a para postularte, ¡eso es genial! Al menos tienes un camino claro hacia adelante. La parte más importante de cualquier viaje es dar el primer paso, y ese paso puede ser pequeño. Encontrar el trabajo de IA adecuado para ti CAPÍTULO 9
+
+Claves para construir una carrera en AICCAPÍTULO 10
+TRABAJOS
+
+Claves para construir una carrera en IA CAPÍTULO 10
+El camino hacia el éxito profesional en IA es más complejo de lo que puedo cubrir en un breve eBook. 
+Espero que los capítulos anteriores te den impulso para seguir adelante. 
+Aquí hay cosas adicionales para pensar mientras trazas tu camino hacia el éxito: 
+Cuando abordamos proyectos grandes, tenemos más éxito trabajando en equipos que individualmente. La capacidad de colaborar con, influir y ser influenciado por otros es fundamental. Por lo tanto, las habilidades interpersonales y de comunicación realmente importan. (Por cierto, solía ser un comunicador bastante malo). 1. Trabajo en equipo:
+¡Odio hacer networking! Como introvertido, tener que ir a una fiesta para sonreír y estrechar la mayor cantidad de manos posible es una actividad que roza lo horroroso. Preferiría quedarme en casa y leer un libro. Sin embargo, tengo la suerte de haber encontrado muchos amigos genuinos en IA; personas por las que estaría dispuesto a luchar y en las que también confío. Ninguna persona es una isla, y tener una red profesional sólida puede ayudarte a avanzar en los momentos en que necesitas ayuda o consejo. En lugar de hacer networking, he encontrado más útil pensar en construir una comunidad. Así que en lugar de tratar de construir mi red personal, me enfoco en construir las comunidades de las que formo parte. Esto tiene el efecto secundario de ayudarme a conocer a más personas y hacer amigos también. 2. Networking:
+
+Claves para construir una carrera en IA CAPÍTULO 10
+De todos los pasos para construir una carrera, este tiende a recibir más atención. Desafortunadamente, hay muchos malos consejos sobre esto en internet. (Por ejemplo, muchos artículos instan a adoptar una actitud adversarial hacia posibles empleadores, lo cual no creo que sea útil). Aunque puede parecer que encontrar un trabajo es el objetivo final, es solo un pequeño paso en el largo viaje de una carrera. 3. Búsqueda de empleo
+Pocas personas sabrán si pasas tus fines de semana aprendiendo o viendo televisión, pero notarán la diferencia con el tiempo. Muchas personas exitosas desarrollan buenos hábitos en la alimentación, el ejercicio, el sueño, las relaciones personales, el trabajo, el aprendizaje y el autocuidado. Estos hábitos les ayudan a avanzar mientras se mantienen saludables. 4. Disciplina personal
+Encuentro que las personas que se esfuerzan por ayudar a los demás en cada paso de su propio viaje a menudo logran mejores resultados para sí mismos. ¿Cómo podemos ayudar a los demás mientras construimos una emocionante carrera para nosotros mismos? 5. Altruismo
+
+Superando el síndrome del impostor
+CAPÍTULO 11
+
+Antes de sumergirnos en el último capítulo de este libro, me gustaría abordar el asunto serio de que los recién llegados a la IA a veces experimentan el síndrome del impostor, donde alguien, sin importar su éxito en el campo, se pregunta si es un fraude y realmente pertenece a la comunidad de IA. Quiero asegurarme de que esto no te desanime a ti ni a nadie más a crecer en la IA.
+Se estima que el 70 por ciento de las personas experimentan algún tipo de síndrome del impostor en algún momento. Muchas personas talentosas han hablado públicamente sobre esta experiencia, incluyendo a la ex COO de Facebook, Sheryl Sandberg, la primera dama de Estados Unidos, Michelle Obama, el actor Tom Hanks y el co-CEO de Atlassian, Mike Cannon-Brookes. Incluso entre personas exitosas, esto ocurre en nuestra comunidad. Si nunca has experimentado esto tú mismo, ¡eso es genial! Espero que te unas a mí para animar y dar la bienvenida a todos los que quieran unirse a nuestra comunidad.
+La IA es técnicamente compleja y cuenta con su buena cantidad de personas inteligentes y altamente capaces. Pero es fácil olvidar que para volverse bueno en algo, el primer paso es ser malo en ello. Si has tenido éxito en ser malo en la IA, ¡felicidades, estás en camino!
+Una vez luché por entender las matemáticas detrás de la regresión lineal. Me quedé perplejo cuando la regresión logística se comportó de manera extraña con mis datos, y me llevó días encontrar un error en mi implementación de una red neuronal básica. Hoy en día, todavía encuentro muchos artículos de investigación desafiantes de leer, y recientemente cometí un error obvio al ajustar un hiperparámetro de una red neuronal (afortunadamente, un compañero ingeniero lo detectó y lo solucionó).
+Entonces, si tú también encuentras partes de la IA desafiantes, está bien. Todos hemos estado ahí. Te garantizo que todos los que han publicado un artículo seminal sobre IA han luchado con desafíos técnicos similares en algún momento.
+Permíteme ser claro: si quieres ser parte de la comunidad de IA, entonces te doy la bienvenida con los brazos abiertos. ¡Si quieres unirte a nosotros, perteneces completamente a nosotros! Superando el síndrome del impostor.
+
+Mi hija de tres años (que apenas puede contar hasta 12) regularmente intenta enseñar cosas a mi hijo de un año. No importa cuánto sepas, si al menos tienes el conocimiento de un niño de tres años, puedes animar y apoyar a los demás que están detrás de ti. Hacerlo también te ayudará a ti, ya que aquellos que están detrás de ti reconocerán tu experiencia y te animarán a seguir desarrollándote. Cuando invites a otros a unirse a la comunidad de IA, lo cual espero que hagas, también eliminará cualquier duda de que ya eres uno de nosotros.
+La IA es una parte tan importante de nuestro mundo que me gustaría que todos los que quieran formar parte de ella se sientan como en casa como miembros de nuestra comunidad. Trabajemos juntos para hacerlo realidad. Aquí hay algunas cosas que pueden ayudar.
+¿Tienes mentores o compañeros de apoyo? Si aún no los tienes, asiste a eventos de Pie & AI u otros eventos, utiliza foros de discusión y trabaja en encontrar algunos. Si tus mentores o jefes no apoyan tu crecimiento, busca a aquellos que sí lo hagan. También estoy trabajando en cómo hacer crecer una comunidad de IA de apoyo y espero facilitar la búsqueda y el apoyo para todos.
+Nadie es experto en todo. Reconoce lo que haces bien. Si lo que haces bien es entender y explicar a tus amigos una décima parte de los artículos en The Batch, ¡estás en camino! Trabajemos para que entiendas dos décimas partes de los artículos.✓
+✓
+Superando el síndrome del impostor
+
+Haz que cada día cuente
+Reflexiones finales
+Cada año en mi cumpleaños, empiezo a pensar en los días pasados y aquellos que pueden estar por venir.
+Cuando le pregunto a mis amigos, muchos eligen un número en los cientos de miles. (¡Muchos otros no pueden resistirse a calcular la respuesta, para mi molestia!)
+Cuando era estudiante de posgrado, recuerdo haber ingresado mis estadísticas en una calculadora de mortalidad para averiguar mi esperanza de vida. La calculadora decía que podía esperar vivir un total de 27,649 días. Me impactó lo pequeño que es este número. Lo imprimí en un tamaño de letra grande y lo pegué en la pared de mi oficina como un recordatorio diario.
+Esos son todos los días que tenemos para pasar con nuestros seres queridos, aprender, construir para el futuro y ayudar a los demás. Lo que sea que estés haciendo hoy, ¿vale 1/30,000 de tu vida? ¿Cuántos días dura una vida humana típica? Tal vez seas bueno en matemáticas; estoy seguro de que podrás responder la siguiente pregunta mediante un cálculo rápido. Pero déjame hacerte una pregunta y por favor responde desde tu instinto, sin calcular.
+20,000 días 100,000 días
+1 millón de días 5 millones de días
+
+PÁGINA 41
+
+Título: El impacto de la tecnología en la sociedad moderna
+
+La tecnología ha tenido un impacto significativo en la sociedad moderna. Ha cambiado la forma en que vivimos, trabajamos y nos relacionamos con los demás. Desde la invención de la computadora personal hasta el desarrollo de Internet, la tecnología ha transformado todos los aspectos de nuestra vida diaria.
+
+Una de las áreas en las que la tecnología ha tenido un impacto notable es en el ámbito laboral. La automatización y la inteligencia artificial han reemplazado muchos trabajos tradicionales, lo que ha llevado a la pérdida de empleos en ciertas industrias. Sin embargo, también ha creado nuevas oportunidades de empleo en campos como la programación y el desarrollo de software.
+
+Además, la tecnología ha cambiado la forma en que nos comunicamos. Las redes sociales y las aplicaciones de mensajería instantánea nos permiten estar conectados con personas de todo el mundo en tiempo real. Esto ha facilitado la colaboración y la comunicación a distancia, pero también ha llevado a problemas como la adicción a las redes sociales y la falta de privacidad en línea.
+
+Otro aspecto importante del impacto de la tecnología en la sociedad es su influencia en la educación. La tecnología ha transformado la forma en que aprendemos y enseñamos. Ahora, los estudiantes pueden acceder a una gran cantidad de información en línea y participar en clases virtuales. Sin embargo, también ha planteado desafíos, como la brecha digital entre aquellos que tienen acceso a la tecnología y aquellos que no.
+
+En resumen, la tecnología ha tenido un impacto profundo en la sociedad moderna. Ha cambiado la forma en que trabajamos, nos comunicamos y aprendemos. Si bien ha traído beneficios significativos, también ha planteado desafíos que debemos abordar de manera responsable.
+
